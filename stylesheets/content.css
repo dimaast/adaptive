@@ -7,10 +7,14 @@ body {
   background-color: #cccccc;
   color: #000000;
 }
-.block1 {
-  margin: 20px 0px 0px 20px;
+
+.blocks {
   display: flex;
   flex-direction: row;
+}
+
+.block1 {
+  margin: 20px 0px 0px 20px;
   width: 300px;
   height: 100px;
   background-color: #767589;
@@ -18,8 +22,6 @@ body {
 
 .block2 {
   margin: 20px 0px 0px 20px;
-  display: flex;
-  flex-direction: row;
   width: 300px;
   height: 100px;
   background-color: #767589;
@@ -27,8 +29,6 @@ body {
 
 .block3 {
   margin: 20px 0px 0px 20px;
-  display: flex;
-  flex-direction: row;
   width: 300px;
   height: 100px;
   background-color: #767589;
