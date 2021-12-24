@@ -5,3 +5,20 @@
   .blocks {
     flex-direction: column;
   }
+  .block1 {
+    margin: 8px;
+    width: 728px;
+    height: 80px;
+  }
+
+  .block2 {
+    margin: 8px;
+    width: 728px;
+    height: 80px;
+  }
+
+  .block3 {
+    margin: 8px;
+    width: 728px;
+    height: 80px;
+  }
