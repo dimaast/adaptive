@@ -1,0 +1,9 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Pt Sans', serif;
+  margin: 0 auto;
+  width: 1440px;
+  background-color: #040432;
+  color: #000000;
+}
