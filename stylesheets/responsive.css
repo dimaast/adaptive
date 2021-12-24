@@ -1,4 +1,4 @@
-@media only screen and (min-width: 1px) and (max-width: 769px) {
+@media only screen and (min-width: 415px) and (max-width: 769px) {
   body{
     width: 768px;
   }
@@ -7,18 +7,18 @@
   }
   .block1 {
     margin: 10px;
-    width: 728px;
+    width: 242%;
     height: 80px;
   }
 
   .block2 {
     margin: 10px;
-    width: 728px;
+    width: 242%;
     height: 80px;
   }
 
   .block3 {
     margin: 10px;
-    width: 728px;
+    width: 242%;
     height: 80px;
   }
