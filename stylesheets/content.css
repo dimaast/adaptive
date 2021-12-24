@@ -9,7 +9,7 @@ body {
 }
 
 .blocks {
-  margin: 0 auto;
+  margin: 20 auto;
   display: flex;
   flex-direction: row;
 }
