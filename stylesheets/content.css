@@ -4,11 +4,11 @@ body {
   font-family: 'Pt Sans', serif;
   margin: 0 auto;
   width: 1440px;
-  background-color: #f7f7f7;
-  color: #ffffff;
+  background-color: #cccccc;
+  color: #000000;
 }
 .block1 {
   width: 300px;
   height: 100px;
-  background-color: #cccccc;
+  background-color: #767589;
 }
